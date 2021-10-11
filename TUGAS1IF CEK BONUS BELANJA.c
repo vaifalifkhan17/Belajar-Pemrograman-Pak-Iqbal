@@ -22,57 +22,5 @@ int main()
     }
     printf ("________Terima Kasih dan Sampai Jumpa Kembali________\n\n\n");
 
-
-    printf ("-------Belanja Kedua---------\n\n\n");
-    printf ("Masukkan Total Belanjaan Anda: ");
-    scanf  ("%d" , &Angka);
-
-
-    if (Angka >100000  ) // Pemilihan 1 Kasus
-    {
-    printf ("Selamat! Anda mendapatkan hadiah:  1 Liter Minyak Goreng Bimoli\n\n\n ");
-    // Statement hadiah akan ditampilkan\n\n
-    }
-    printf ("________Terima Kasih dan Sampai Jumpa Kembali________\n\n\n");
-
-
-    printf ("-------Belanja Ketiga---------\n\n\n");
-    printf ("Masukkan Total Belanjaan Anda: ");
-    scanf  ("%d" , &Angka);
-
-
-    if (Angka >100000  ) // Pemilihan 1 Kasus
-    {
-    printf ("Selamat! Anda mendapatkan hadiah:  1 Liter Minyak Goreng Bimoli\n\n\n ");
-    // Statement hadiah akan ditampilkan\n\n
-    }
-    printf ("________Terima Kasih dan Sampai Jumpa Kembali________\n\n\n");
-
-
-    printf ("-------Belanja Keempat---------\n\n\n");
-    printf ("Masukkan Total Belanjaan Anda: ");
-    scanf  ("%d" , &Angka);
-
-
-    if (Angka >100000  ) // Pemilihan 1 Kasus
-    {
-    printf ("Selamat! Anda mendapatkan hadiah:  1 Liter Minyak Goreng Bimoli\n\n\n ");
-    // Statement hadiah akan ditampilkan\n\n
-    }
-    printf ("________Terima Kasih dan Sampai Jumpa Kembali________\n\n\n");
-
-
-    printf ("-------Belanja Kelima---------\n\n\n");
-    printf ("Masukkan Total Belanjaan Anda: ");
-    scanf  ("%d" , &Angka);
-
-
-    if (Angka >100000  ) // Pemilihan 1 Kasus
-    {
-    printf ("Selamat! Anda mendapatkan hadiah:  1 Liter Minyak Goreng Bimoli\n\n\n ");
-    // Statement hadiah akan ditampilkan\n\n
-    }
-    printf ("________Terima Kasih dan Sampai Jumpa Kembali________\n\n\n");
-
 return 0;
 }
